@@ -1,0 +1,1 @@
+int Delete(USERS *User, char *data);

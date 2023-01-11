@@ -1,0 +1,1 @@
+int Posts(USERS *Users);

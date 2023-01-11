@@ -1,0 +1,1 @@
+int Like(USERS * Users, char *data);
